@@ -4,8 +4,8 @@
 </div>
 
 <div align="center">
-     <img widht="50%" height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=MauricioSilva05&show_icons=true&theme=vue-dark&count_private=true)"/>
-     <img widht="50%" height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioSilva05&layout=compact&langs_count=168&theme=vue-dark"/>
+     <img   height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=MauricioSilva05&show_icons=true&theme=vue-dark&count_private=true)"/>
+     <img   height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioSilva05&layout=compact&langs_count=168&theme=vue-dark"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
