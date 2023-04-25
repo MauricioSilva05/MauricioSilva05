@@ -24,7 +24,7 @@
 <a hre="https://outlook.live.com/mail/0/?actSwt=true" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" </a> 
 </div>
 
-<div align="center">
+
  ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
-</div>          
+         
 
