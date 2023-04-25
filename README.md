@@ -22,7 +22,6 @@
      
 <div align="center">
      <img align="center" height="40" widht="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" />
-      <img align="center" height="40" widht="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
        <img align="center" height="40" widht="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
         <img align="center" height="40" widht="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
          <img align="center" height="40" widht="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
